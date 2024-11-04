@@ -15,7 +15,3 @@ This project is part of my initial learning journey into deep learning. It serve
 ## Requirements
 - Python 3.x
 - Libraries: `numpy`, `matplotlib`, `sklearn`
-
-To install these libraries, you can run:
-```bash
-pip install numpy matplotlib scikit-learn
